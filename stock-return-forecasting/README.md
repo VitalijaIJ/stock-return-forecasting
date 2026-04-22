@@ -1,4 +1,4 @@
-# 📊 **Stock Return Forecasting & Portfolio Analysis**
+#  **Stock Return Forecasting & Portfolio Analysis**
 
 ---
 
@@ -15,7 +15,7 @@ The goal is to build a **decision-support framework** for short-term portfolio a
 
 ---
 
-## 🚀 Key Results
+##  Key Results
 
 - Best model: **Ridge Regression**  
 - Test MAE: **0.01413** (vs baseline ~0.02057)  
@@ -69,7 +69,7 @@ project/
 
 ## 🔹 Methodology
 
-### 📌 Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 
 - Return distribution analysis  
 - Volatility comparison across stocks  
@@ -84,7 +84,7 @@ Financial returns are noisy, but **volatility clustering is clearly present**.
 
 ---
 
-### 📌 Time-Series Forecasting
+###  Time-Series Forecasting
 
 **Objective:** Predict next-day stock returns  
 
